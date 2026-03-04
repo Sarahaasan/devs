@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "quantity": 15,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Organic Green Tea Set",
+    "price": 24.50,
+    "quantity": 0,
+    "category": "Food & Beverage"
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "quantity": 8,
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Leather Laptop Backpack",
+    "price": 89.00,
+    "quantity": 20,
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Stainless Steel Water Bottle",
+    "price": 35.00,
+    "quantity": 45,
+    "category": "Sports & Outdoor"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Charging Pad",
+    "price": 29.99,
+    "quantity": 28,
+    "category": "Electronics"
+  }
+]
