@@ -165,6 +165,8 @@ class App extends Component {
 								onChange={this.handleInputChange}
 								className="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
 								required
+								min="0"
+								max="1000"
 							/>
 							
 							<input
@@ -175,6 +177,8 @@ class App extends Component {
 								onChange={this.handleInputChange}
 								className="px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
 								required
+								min="0"
+								max="1000"
 							/>
 							
 							<select
